@@ -1,0 +1,31 @@
+#banner {
+   font-family: Halvetice;
+   font-size: 100px;
+   font-weight: bold;
+   color: khaki;
+   background-image:url("pattern.jpeg");
+}
+
+#brushes {
+    font-family: Halvetice;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    font-family: Halvetice;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#paint {
+    font-family: Halvetice;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
